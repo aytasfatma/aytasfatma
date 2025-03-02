@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aytasfatma" alt="aytasfatma" /></a> </p>
 
-- 🌱 I’m currently learning **C programming, Algorithm**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **fatmaaytis@gmail.com**
 
