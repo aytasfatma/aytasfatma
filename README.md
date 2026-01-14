@@ -2,7 +2,7 @@
 <h3 align="center">A developer who resolute from Turkey</h3>
 
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **fatmaytis34@gmail.com**
 
